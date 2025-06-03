@@ -1,5 +1,5 @@
 [project]
-name = "milo_codex"
+name = "milo-codex"
 version = "0.1.0"
 description = "Minimal Input Life Organizer"
 authors = [
